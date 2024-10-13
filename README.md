@@ -1,3 +1,3 @@
 # website
 This is my first Repository.
-Aythor-Garima Sharma
+Author-Garima Sharma
